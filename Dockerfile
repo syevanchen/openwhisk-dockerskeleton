@@ -1,0 +1,1 @@
+FROM openwhisk/dockerskeleton:nightly
